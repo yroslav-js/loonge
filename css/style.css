@@ -1418,6 +1418,10 @@ body.show-sidebar {
   .but-wrapper + .but-wrapper {
     margin-left: 5px;
   }
+  
+  .section-head__content{
+		justify-content: center;
+	}
 
   .section-head__content::after {
     width: 0;
